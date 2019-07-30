@@ -1,0 +1,13 @@
+#page, 
+#slide_top, 
+#bottom, 
+span.dropcap2, 
+.cmsms_plus,  
+.cmsmsLike, 
+.cmsms_slider_parent, 
+#slider, 
+a.cmsms_prev_slide span, 
+a.cmsms_next_slide span, 
+a.cmsms_close_video, 
+ul.cmsms_slides_nav li a, 
+.cmsms_content_slider_parent ul.cmsms_slides_nav li a {behavior:url(css/styles/pie.htc);}

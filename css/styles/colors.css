@@ -1,0 +1,114 @@
+
+/* ---------------------------------------------- Content Color */
+
+body, 
+input, 
+textarea, 
+#bottom .widget_links a, 
+a:hover, 
+.color_1, 
+div.jp-playlist li.jp-playlist-current a, 
+.tour li.current a, 
+ul.p_filter li a {color:#817e75;}
+
+
+/* ---------------------------------------------- Navigation Color */
+
+#navigation li > a {color:#686868;}
+
+#navigation ul li.current_page_item > a, 
+#navigation ul li a:hover {color:#ffffff;}
+
+#navigation ul li a {background-color:#ffffff;}
+
+#navigation ul li.current_page_item > a, 
+#navigation ul li a:hover {background-color:#f7773b;}
+
+#navigation > li.current_page_item > a > span, 
+#navigation > li > a:hover > span {border-color:#f7773b;}
+
+/* ---------------------------------------------- Buttons Colors */
+
+
+.cmsms_plus span {background-color:#565656;}
+
+.table th, 
+span.dropcap2 {color:#ffffff;}
+
+/* ---------------------------------------------- Headings Colors */
+
+h1 {color:#565656;}
+
+h2, 
+h2.entry-title a {color:#565656;}
+
+h3 {color:#565656;}
+
+h4 {color:#565656;}
+
+h5, 
+.short .entry-title a,  
+h5.entry-title a,
+.togg .tog {color:#565656;}
+
+h6 {color:#565656;}
+
+.color_2 {color:#565656;}
+
+/* ---------------------------------------------- Links Colors */
+
+a, 
+.color_3, 
+.short .entry-title a:hover, 
+h2.entry-title a:hover, 
+h5.entry-title a:hover, 
+.cmsmsLike:hover span,
+.togg .tog:hover, 
+.togg .tog.current {color:#f7773b;}
+
+
+.shortcode_slideshow ul.shortcode_slideshow_pager li.current a, 
+.shortcode_slideshow ul.shortcode_slideshow_pager li a:hover, 
+.cmsmsLike:hover, 
+.cmsmsLike.active, 
+.table th, 
+span.dropcap2, 
+#slide_top,  
+.tour li.current a .arrow_block, 
+.tour li a:hover .arrow_block,  
+.togg .tog:hover .cmsms_plus span, 
+.togg .tog.current .cmsms_plus span {background-color:#f7773b;}
+
+/* ---------------------------------------------- Slider colors */
+
+a.cmsms_prev_slide:hover span, 
+a.cmsms_next_slide:hover span, 
+a.cmsms_close_video:hover,
+ul.cmsms_slides_nav li.active a, 
+ul.cmsms_slides_nav li:hover a {background-color:#3a3a3a;}
+
+.responsiveSlider, 
+.responsiveSlider h1, 
+.responsiveSlider h2, 
+.responsiveSlider h3, 
+.responsiveSlider h4, 
+.responsiveSlider h5, 
+.responsiveSlider h6 {color:#2c2c2c;}
+
+/* ---------------------------------------------- Other Colors */
+
+#bottom .cmsms-form-builder input[type="text"]:focus, 
+#bottom .cmsms-form-builder textarea:focus, 
+input[type="text"]:focus, 
+textarea:focus, 
+select.resp_navigation:focus, 
+code {border-color:#f7773b;}
+
+.cmsmsLike {background-color:#cccccc;}
+
+.cmsmsLike span {color:#cccccc;}
+
+blockquote {color:#565656;}
+
+#bottom .widget_links a:hover, 
+span.dropcap {color:#565656;}

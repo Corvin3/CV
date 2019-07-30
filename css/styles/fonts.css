@@ -1,0 +1,30 @@
+body {font:13px/18px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+input, textarea {font:13px/18px Arial, Helvetica, "Nimbus Sans L", sans-serif;}
+
+code {font:13px/18px Arial, Helvetica, "Nimbus Sans L", sans-serif;}
+
+h1 {font:48px/54px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+h2 {font:32px/36px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+h3, .sitemap > li > a {font:26px/36px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+h4, #sidebar .widgettitle {font:20px/36px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+h5 {font:16px/18px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+h6, .table th, .sitemap > li > ul > li > a, .cms_archive li {font:bold 13px/18px Arial, Helvetica, "Nimbus Sans L", sans-serif;}
+
+small, abbr {font:11px/18px Arial, Helvetica, "Nimbus Sans L", sans-serif;}
+
+blockquote {font:26px/36px "Droid Sans", Helvetica, "Nimbus Sans L", sans-serif;}
+
+em, 
+.link_arrow, 
+.widget_links li, 
+.comments_number, 
+.cmsms_info .category_name, 
+.cmsms_info .user_name, 
+.post_category a, 
+.commentlist .published {font-family:"Droid Serif", Georgia, Times, "Century Schoolbook L", serif;}

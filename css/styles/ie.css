@@ -1,0 +1,70 @@
+/* IE 8 */
+
+#page {box-shadow:0 0 15px #dddddd;}
+
+input[type="text"] {
+	padding-top:6px;
+	padding-bottom:4px;
+}
+
+.table thead th {text-align:left;}
+
+span.dropcap2, 
+.cmsms_plus, 
+.wp-pagenavi a, 
+.wp-pagenavi span, 
+.cmsmsLike {
+	position:relative;
+	z-index:5;
+}
+
+.tour li a:hover .arrow_block, 
+.tour li.current a .arrow_block {background-color:none;}
+
+div.p_filter {height:1000px;}
+
+.p_filter_container ul.p_filter {
+	padding:0;
+	top:31px;
+}
+
+.p_cat_filter.button, 
+.p_sort a[name="p_name"], 
+.p_sort a[name="p_date"],  
+.p_sort a[name="p_name"]:hover, 
+.p_sort a[name="p_date"]:hover,
+.p_sort a.current[name="p_name"], 
+.p_sort a.current[name="p_date"] {
+	box-shadow:none;
+	filter:none;
+}
+
+ul.p_filter li:first-child {padding-top:0;}
+
+.cmsms-form-builder select {padding:6px 4px;}
+
+@media only screen and (min-width: 541px) and (max-width: 767px) {
+	
+	.one_fourth, 
+	.one_fourth.last,  
+	.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth+.one_fourth, 
+	.widget_colored.four_box, 
+	.widget_colored.four_box+.widget_colored.four_box, 
+	.widget_colored.four_box+.widget_colored.four_box+.widget_colored.four_box, 
+	.widget_colored.four_box+.widget_colored.four_box+.widget_colored.four_box+.widget_colored.four_box, 
+	.portfolio_container.four_blocks .portfolio:nth-child(odd), 
+	.portfolio_container.four_blocks .portfolio:nth-child(even), 
+	.project.four_blocks .resize figure:nth-child(odd), 
+	.project.four_blocks .resize figure:nth-child(even), 
+	.cms_archive li:nth-child(odd),  
+	.cms_archive li:nth-child(even), 
+	.sitemap > li > ul > li:nth-child(odd),
+	.sitemap > li > ul > li:nth-child(even) {
+		width:100%;
+		float:none;
+		padding-right:0;
+	}
+	
+}
